@@ -1,0 +1,1 @@
+Intall tiktoken-go and check the length of the content
