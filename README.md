@@ -14,8 +14,13 @@ It is written in Go and uses the tview library for the terminal interface.
 
 ## Installation
 
+### From source
+
+Clone the repository and build the binary.
+
 ```bash
-go get github.com/elkware/chattui
+cd chattui
+go build -o chattui cmd/main.go
 ```
 
 ## Usage
